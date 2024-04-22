@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GoBlock2021的练习情况](https://luogu-card.vercel.app/practice?id=1321108)](https://www.luogu.com.cn/user/1321108)
 
 <!--
 **goblock2021/goblock2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
